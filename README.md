@@ -47,13 +47,14 @@
 
 ![code](gambarR/code.png)
 
+* Setelah Link URL git kita tercopy, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih Git Bash Here.
 
+![GitBash](gambarR/GitBash.png)
 
+* Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+`git clone [URL] pada contohnya, saya akan memasukan git clone`
 
-
-
-
-
+https://github.com/ZiddanMakarim/latihanVCS1.git <br>
 
 
 
