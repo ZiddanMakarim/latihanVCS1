@@ -14,9 +14,9 @@
 
 ![installing](gambarR/installing.png)
 
+* Setelah installasi selesai, buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
 
-
-
+![Version](gambarR/version.png)
 
 
 
