@@ -5,9 +5,10 @@
 **NIM : 312010063** <br>
 **TUGAS : Membuat Repository** <br>
 
+# Langkah-langkah penggunaan git
+* Download Git terlebih dahulu, dengan link berikut ini : [click here](https://git-scm.com) <br>
 
-**Latihan VCS** <br>
-
+![git-scm](gambarR/GitScm.png) <br>
 
 
 
