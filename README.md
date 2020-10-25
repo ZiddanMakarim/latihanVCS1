@@ -83,5 +83,6 @@ https://github.com/ZiddanMakarim/latihanVCS1.git <br>
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
+![hasil pembuatan](gambarR/hasil1.png)
 
 ![logo](gambarR/logo.png)
