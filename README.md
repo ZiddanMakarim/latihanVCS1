@@ -23,8 +23,9 @@
 `git config --global user.email "masukan email anda`
 ![user](gambarR/user.png)
 
-
-
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
+`git config --global user.name` <br>
+`git config --global user.email`
 
 
 
