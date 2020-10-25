@@ -10,9 +10,9 @@
 
 ![git-scm](gambarR/GitScm.png) <br>
 
+* Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-
-
+![installing](gambarR/installing.png)
 
 
 
