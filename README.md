@@ -38,10 +38,14 @@
 * `Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.`
 * `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan`
 ![buat](gambarR/buat.png)
+ 
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 
+![hasil](gambarR/hasil.png)
 
+* Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk me-remote repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link URL git kita di Github, dengan cara tekan tombol Code lalu klik Copy.
 
-
+![code](gambarR/code.png)
 
 
 
